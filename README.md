@@ -7,7 +7,7 @@ Case_A: Case_WHN_Sys_A.m, Case_WHN_Sys_B.m, Case_WHN_Sys_C.m, Est_SP.mat.
 
 Case_B: Case_B_Sys_A.m, Case_B_Sys_B.m, Case_B_Sys_C.m, Est_SP_COR.mat.
 # Notice
-In both cases, you should run the programs in order of "xx_Sys_A.m", "xx_Sys_B", and "xx_Sys_C.m".
+In both cases, you should run the programs in order of "xx_Sys_A.m", "xx_Sys_B", and "xx_Sys_C.m", to produce synthetical signal and save the resutls for finnal plot.
 Please note that the code is not generally perfected for performance, but is rather meant to illustrate certain results from the paper. 
 The code is provided as-is without guarantees.
 # Paper Citation
