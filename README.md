@@ -1,5 +1,6 @@
-# (HANC) A new hybrid active noise control system with input-power-controlled online secondary-path modeling
-This repository contains code relative to simulations from paper "A new hybrid active noise control system with input-power-controlled online secondary-path modeling". Two simulations cases code, Case_A and Case_B, are provided. The detail introduction can be found in the paper.
+# HANC
+This repository contains code relative to simulations from paper "A new hybrid active noise control system with input-power-controlled online secondary-path modeling". 
+Two simulations cases code, Case_A and Case_B, are provided. The detail introduction can be found in the paper.
 # Getting started
 Known dependency: Matlab R2022a
 # Code structure
